@@ -1,0 +1,363 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSPCC-Modlist-11-1-2021",
+    "name": "KSPCC-Modlist-11-1-2021",
+    "abstract": "KSP Community Career Modlist\r\nVersions may not be completely consistent with Charlie's game if downloading through CKAN",
+    "author": [
+        "CharliePryor"
+    ],
+    "version": "KSPCC-Modlist-11-1-2021",
+    "ksp_version_min": "1.8.1",
+    "ksp_version_max": "1.12.2",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "AviationLights"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "CameraFocusChanger"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kerbalism-Config-Default"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "EVAParachutes"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "MinAmbLightUpd"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DockRotate"
+        },
+        {
+            "name": "ParkingBrake"
+        },
+        {
+            "name": "HaystackReContinued"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ProbesBeforeCrew"
+        },
+        {
+            "name": "CelestialBodyScienceEditor"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "TacFuelBalancer"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "BatteryActivatorReactivated"
+        },
+        {
+            "name": "RationalResourcesCompanion"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "PreciseManeuver"
+        },
+        {
+            "name": "TheGoldStandard"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "KerBalloons"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "MOARStationScience"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "EarnYourStripes"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "AlarmEnhancements"
+        },
+        {
+            "name": "CrewLight"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "PersistentRotationUpgraded"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "ReentryParticleEffect"
+        },
+        {
+            "name": "KerbalWeatherProject"
+        },
+        {
+            "name": "DockingCamKURS"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-11-01T17:13:07.1795539-04:00"
+}
